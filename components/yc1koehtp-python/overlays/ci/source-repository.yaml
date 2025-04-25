@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yc1koehtp-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yc1koehtp-python
